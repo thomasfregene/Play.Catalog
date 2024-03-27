@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Play.Catalog.Service
-build_property.ProjectDir = C:\Projects\Play.Catalog\src\play.catalog.service\
+build_property.ProjectDir = C:\projects\play.catalog\src\play.catalog.service\

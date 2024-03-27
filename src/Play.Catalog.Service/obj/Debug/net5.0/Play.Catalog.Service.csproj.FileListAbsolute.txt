@@ -52,3 +52,16 @@ C:\Projects\Play.Catalog\src\play.catalog.service\bin\Debug\net5.0\Microsoft.Ext
 C:\Projects\Play.Catalog\src\play.catalog.service\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
 C:\Projects\Play.Catalog\src\play.catalog.service\bin\Debug\net5.0\Play.Common.dll
 C:\Projects\Play.Catalog\src\play.catalog.service\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projects\Play.Catalog\src\play.catalog.service\bin\Debug\net5.0\Automatonymous.dll
+C:\Projects\Play.Catalog\src\play.catalog.service\bin\Debug\net5.0\GreenPipes.dll
+C:\Projects\Play.Catalog\src\play.catalog.service\bin\Debug\net5.0\MassTransit.dll
+C:\Projects\Play.Catalog\src\play.catalog.service\bin\Debug\net5.0\MassTransit.AspNetCoreIntegration.dll
+C:\Projects\Play.Catalog\src\play.catalog.service\bin\Debug\net5.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+C:\Projects\Play.Catalog\src\play.catalog.service\bin\Debug\net5.0\MassTransit.RabbitMqTransport.dll
+C:\Projects\Play.Catalog\src\play.catalog.service\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\Play.Catalog\src\play.catalog.service\bin\Debug\net5.0\NewId.dll
+C:\Projects\Play.Catalog\src\play.catalog.service\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Projects\Play.Catalog\src\play.catalog.service\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Projects\Play.Catalog\src\play.catalog.service\bin\Debug\net5.0\RabbitMQ.Client.dll
+C:\Projects\Play.Catalog\src\play.catalog.service\bin\Debug\net5.0\Play.Catalog.Contracts.dll
+C:\Projects\Play.Catalog\src\play.catalog.service\bin\Debug\net5.0\Play.Catalog.Contracts.pdb
